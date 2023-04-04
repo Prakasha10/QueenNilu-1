@@ -16,7 +16,7 @@ global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
-global.OWNER_REACT = '🥀' //Owner's Messages react emoji
+global.OWNER_REACT = '💨' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
 
 
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -58,7 +58,7 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 
 //SEX_VIDEO_DOWNLOAD
-global.SEX_VIDEO_DOWNLOAD ='true'
+global.SEX_VIDEO_DOWNLOAD ='𝚏𝚊𝚕𝚜𝚎'
 
 //Kick Message 
 global.KICK_MSG = ' ' 
